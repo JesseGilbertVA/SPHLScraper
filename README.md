@@ -2,7 +2,7 @@ This project is out of date and no longer being maintained.
 
 This is an SPHL stats exporter that scrapes seasonal player and goalie stats. The intent of this project is to make stats more easily available for those wanting to do any kind of data analysis for the SPHL.
 
-It is currently configured for the 2019-20 season, which was cancelled due to the COVID-19 pandemic. I will update it for the upcoming 2020-21 season as soon as that is possible.
+It is currently configured for the 2019-20 season, which was cancelled due to the COVID-19 pandemic.
 
 This is the open-source, uncompiled version of the project. If you'd like to download a compiled executable for Windows, you can do so here: https://drive.google.com/file/d/1YJNhDf7apaL5HDr-Eg5igJolXL0DpYes/view?usp=sharing
 
